@@ -1,0 +1,28 @@
+.all {
+  text-align: center;
+  max-width: 70%;
+  margin:auto;
+}
+
+.all h1 {
+  font-size: 80px;
+  font-family: Impact;
+}
+.all p {
+  font-size: 35px;
+}
+
+.all button {
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+  margin-bottom: 50px;
+}
+.all button:hover {
+  background-color: green;
+}
+
+#rand {
+  font-size: 35px;
+}
